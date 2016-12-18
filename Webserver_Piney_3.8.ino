@@ -26,7 +26,7 @@
 BMP280 bmp;
 
 const char* ssid = "Piney_Woods";
-const char* password = "1mushroom";
+const char* password = "password";
 const char* host = "192.168.0.8"; //lan ip address will be in serial printed - don't think this is neeced
 const int  buttonPin = D2;    // the pin that the rain guagae
 const int contactPin = D3;     // the number of the anemometer reading pin
